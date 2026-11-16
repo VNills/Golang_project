@@ -1,3 +1,3 @@
-module github.com/VNills/Golang_project/modules
+module golang_project
 
-go 1.27.3
+go 1.27.4
